@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/pQ/Ww/URL-s463--http&c%%archive.org%download%ie-evolt_browsers%pocketpc%1.1%casio-compaq%readme.txt/URL-s463--http&c%%archive.org%download%ie-evolt_browsers%pocketpc%1.1%casio-compaq%readme.txt

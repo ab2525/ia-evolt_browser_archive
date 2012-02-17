@@ -1,0 +1,1 @@
+../../.git/annex/objects/v2/45/URL-s1311--http&c%%archive.org%download%netmanager-evolt_browsers%1.0%readme.txt/URL-s1311--http&c%%archive.org%download%netmanager-evolt_browsers%1.0%readme.txt

@@ -1,0 +1,1 @@
+../../../.git/annex/objects/4X/xz/URL-s2369--http&c%%archive.org%download%navigator-evolt_browsers%32bit%4.74communicator%README.txt/URL-s2369--http&c%%archive.org%download%navigator-evolt_browsers%32bit%4.74communicator%README.txt

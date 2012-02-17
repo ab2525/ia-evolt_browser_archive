@@ -1,0 +1,1 @@
+../../../../../.git/annex/objects/2X/1P/URL-s17220--http&c%%archive.org%download%navigator-evolt_browsers%unix%4.8%linux22%navigator_standalone%README.license.txt/URL-s17220--http&c%%archive.org%download%navigator-evolt_browsers%unix%4.8%linux22%navigator_standalone%README.license.txt
